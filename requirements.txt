@@ -24,5 +24,4 @@ pandas
 plost
 Pillow
 matplotlib
-mpl_toolkits.mplot3d
 seaborn
