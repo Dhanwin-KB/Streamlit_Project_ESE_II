@@ -22,7 +22,7 @@ encodec
 streamlit
 pandas
 plost
-PIL
+Pillow
 matplotlib.pyplot
 mpl_toolkits.mplot3d
 seaborn
