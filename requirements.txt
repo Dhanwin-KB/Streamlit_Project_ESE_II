@@ -23,6 +23,6 @@ streamlit
 pandas
 plost
 Pillow
-matplotlib.pyplot
+matplotlib
 mpl_toolkits.mplot3d
 seaborn
